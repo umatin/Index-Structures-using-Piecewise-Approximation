@@ -1,0 +1,4 @@
+perf.*
+a.out
+.vscode/*
+.vscode

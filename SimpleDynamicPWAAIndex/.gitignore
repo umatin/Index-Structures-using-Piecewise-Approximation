@@ -1,0 +1,5 @@
+a.out
+perf.data
+perf.data.old
+.vscode/*
+dataset.cfg
